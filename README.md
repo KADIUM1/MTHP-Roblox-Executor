@@ -4,7 +4,7 @@ A Roblox Executor Written in python
 
 **Custom Script support | MTHP**
 
-Star, if you like it :star:
+:star: Star, if you like it :star:
 
 1: run getkey.bat
 
